@@ -1,0 +1,1 @@
+We will be deploying this hello-world python application on Kubernetes cluster.
